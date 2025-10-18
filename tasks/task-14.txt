@@ -9,7 +9,7 @@ Create a file called /home/x69van/ansible/user_list.yml with the content below:
 	  - name: gabriel
 	    job: manager
 	    uid: 3001
-	  - name: lucifer
+	  - name: Pedro
 	    job: developer
 	    uid: 3002
 
